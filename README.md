@@ -8,4 +8,4 @@ Funkcje:
 -malowanie zblurowanym pędzlem
 Kolor oraz rozmiar pędzla zmienia się w kodzie
 
-Przy tworzeniu projektu posiłkowałem się internetem
+
